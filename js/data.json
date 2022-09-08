@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "division": "TERCERA",
+        "nombre": "María González",
+        "promedio": 7,
+        "imagen": "./img/alumna.webp",
+        "descripcion_corta": "Alumna María González",
+        "notaMate": 8,
+        "notaLeng": 6,
+        "notaIng": 7,
+        "aprobado": "Aprobado"
+    },
+    {
+        "id": 2,
+        "division": "TERCERA",
+        "nombre": "RAÚL PÉREZ",
+        "promedio": 5.6,
+        "imagen": "./img/alumno.webp",
+        "descripcion_corta": "Alumno Raúl Pérez",
+        "notaMate": 5,
+        "notaLeng": 6,
+        "notaIng": 6,
+        "aprobado": "Desaprobado"
+    },
+    {
+        "id": 3,
+        "division": "CUARTA",
+        "nombre": "DYLAN DE LUCA",
+        "promedio": 8,
+        "imagen": "./img/alumno.webp",
+        "descripcion_corta": "Alumno Dylan de Luca",
+        "notaMate": 10,
+        "notaLeng": 8,
+        "notaIng": 6,
+        "aprobado": "Aprobado"
+    },
+    {
+        "id": 4,
+        "division": "CUARTA",
+        "nombre": "ANA MARÍA",
+        "promedio": 9,
+        "imagen": "./img/alumna.webp",
+        "descripcion_corta": "Alumna Ana María",
+        "notaMate": 9,
+        "notaLeng": 8,
+        "notaIng": 10,
+        "aprobado": "Aprobado"
+    },
+    {
+        "id": 5,
+        "division": "QUINTA",
+        "nombre": "MARTA MENDEZ",
+        "promedio": 5,
+        "imagen": "./img/alumna.webp",
+        "descripcion_corta": "Alumna Marta Mendez",
+        "notaMate": "...",
+        "notaLeng": "...",
+        "notaIng": "...",
+        "aprobado": "Aprobado"
+    },
+    {
+        "id": 6,
+        "division": "QUINTA",
+        "nombre": "PEPITO LUJÁN",
+        "promedio": 9,
+        "imagen": "./img/alumno.webp",
+        "descripcion_corta": "Alumno Pepito Luján",
+        "notaMate": "...",
+        "notaLeng": "...",
+        "notaIng": "...",
+        "aprobado": "Aprobado"
+    }
+]
